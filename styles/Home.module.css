@@ -1,0 +1,9 @@
+.style2DemoBody {
+    font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
+        'Arial', sans-serif;
+    background-color: lightblue;
+    color: darkblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
