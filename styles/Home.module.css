@@ -7,3 +7,10 @@
     justify-content: center;
     align-items: center;
 }
+
+.AdminStyle {
+    background-color: aliceblue;
+    color: black;
+    font-size: 1rem;
+    
+}
